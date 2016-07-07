@@ -1,0 +1,20 @@
+{
+  "prompts": {
+     "name": {
+       "label": "Name",
+       "type": "string",
+       "required": true
+     },
+     "description": {
+       "label": "Description",
+       "type": "string",
+       "default": "Ibuild template",
+       "required": true
+     },
+     "username": {
+       "type": "string",
+       "label": "Githib Username",
+       "default": "ibuildio-templates"
+     }
+   }
+}

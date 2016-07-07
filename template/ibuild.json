@@ -1,0 +1,9 @@
+{
+  "prompts": {
+     "name": {
+       "label": "Name",
+       "type": "string",
+       "required": true
+     }
+   }
+}
