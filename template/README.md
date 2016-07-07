@@ -1,5 +1,6 @@
 ```
 {{figlet (toUpperCase name)}}
+Template
 ```
 > {{ description }}
 
